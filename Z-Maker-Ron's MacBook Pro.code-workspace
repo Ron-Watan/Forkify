@@ -1,0 +1,148 @@
+{
+  "folders": [],
+  "settings": {
+    "todohighlight.defaultStyle": {},
+    "todohighlight.exclude": [
+      "**/node_modules/**",
+      "**/bower_components/**",
+      "**/dist/**",
+      "**/build/**",
+      "**/.vscode/**",
+      "**/.github/**",
+      "**/_output/**",
+      "**/*.min.*",
+      "**/*.map",
+      "**/.next/**"
+    ],
+    "todohighlight.include": [
+      "**/*.js",
+      "**/*.jsx",
+      "**/*.ts",
+      "**/*.tsx",
+      "**/*.html",
+      "**/*.php",
+      "**/*.css",
+      "**/*.scss"
+    ],
+    "todohighlight.keywords": [
+      {
+        "text": "//-",
+        "color": "#fff",
+        "backgroundColor": "#e206ff"
+      },
+      {
+        "text": "<!---->",
+        "color": "#fff",
+        "backgroundColor": "#e206ff"
+      },
+      {
+        "text": "//+",
+        "color": "#e74c3c",
+        "backgroundColor": "#e74c3c"
+      },
+      // {
+      //   "text": "console.log",
+      //   "color": "#e206ff",
+      //   "backgroundColor": "#272528"
+      // },
+
+      {
+        "text": "//[ IMPORT from MODEL]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "//[ IMPORT RECIPE VIEW]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "//[ EVENT to SUMMIT FORM ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "//[ EXPORT to CONTROLLER]",
+        "color": "#fff",
+        "backgroundColor": "blue"
+      },
+      {
+        "text": "//[ TOGGLE FORM ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "//: ASYNC",
+        "color": "#e74c3c",
+        "backgroundColor": "#fff"
+      },
+      {
+        "text": "//: AWAIT",
+        "color": "#e74c3c",
+        "backgroundColor": "#fff"
+      },
+
+      {
+        "text": "//[ HIDE FORM ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      },
+      {
+        "text": "// ]",
+        "color": "#fff",
+        "backgroundColor": "#e74c3c"
+      }
+    ],
+    "prettier.printWidth": 250,
+    "prettier.bracketSameLine": true,
+    "prettier.proseWrap": "never",
+    "prettier.singleQuote": true
+  }
+}
+
+/*
+
+{
+  "text": "// ]",
+  "color": "#fff",
+  "backgroundColor": "#e74c3c"
+},
+
+
+"folders": [
+  {
+    "path": "."
+  }
+],
+
+*/
