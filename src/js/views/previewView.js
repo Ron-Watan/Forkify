@@ -4,7 +4,6 @@ import icons from 'url:../../img/icons.svg';
 class PreviewView extends View {
   previewMarkup(recipeData) {
     const idActive = window.location.hash.slice(1);
-    console.log(recipeData)
     return recipeData
       .map(data => {
         return `
